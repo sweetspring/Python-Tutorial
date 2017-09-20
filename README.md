@@ -1,6 +1,8 @@
 # pywork
 some codes for small projects.
 
+# cookbook
+  * course/samples/exercises for python.
 
 # Car similarity checking
 for the results please visit: http://dmdemo.xjihe.com/
